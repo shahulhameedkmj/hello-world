@@ -1,0 +1,9 @@
+{
+	"name": "shahuldftest",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6ffbb77-375c-4822-b93b-82b4acb2a208",
+		"tenantId": "5b43926f-ce0d-4adb-b436-dcfea89bb5e5"
+	}
+}

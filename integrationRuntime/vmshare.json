@@ -1,0 +1,6 @@
+{
+	"name": "vmshare",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
